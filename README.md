@@ -26,7 +26,13 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-
+<div>
+    <a href="https://www.loom.com/share/5a134654da50431b89e36342e284d586">
+    </a>
+    <a href="https://www.loom.com/share/5a134654da50431b89e36342e284d586">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/5a134654da50431b89e36342e284d586-with-play.gif">
+    </a>
+  </div>
 ## Notes
 
 The main challenge was making sure everything was aligned and having it look good when you would rotate the iPhone.
